@@ -1,3 +1,8 @@
 # cs388---Flixster
 
-![ezgif-4-21878a7d95](https://user-images.githubusercontent.com/44685969/218246659-0df6d44f-2ee5-4672-b03f-9044dfb4b2a3.gif)
+#GETS MOST POPULAR MOVIES OUT RIGHT NOW
+
+![https://user-images.githubusercontent.com/44685969/220250840-9b703b67-9dea-4f42-a1ea-9b6762deb4f0.gif)
+
+# SHOWS USER DESCRIPTION RATING AND ALSO ABLE TO PLAY A SMALL TRAILER I DID HAVE AN ISSUE WITH YOUTUBE API FOR ANDROID STUDIO
+
