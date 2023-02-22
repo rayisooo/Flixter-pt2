@@ -4,7 +4,7 @@ Submitted by: **Your Name Here**
 
 **Name of your app** is a movie browsing app that allows users to browse ... [TODO] 
 
-Time spent: **X** hours spent in total
+Time spent: 5 hours spent in total
 
 ## Required Features
 
